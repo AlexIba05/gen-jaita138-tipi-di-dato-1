@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "b86086e4d410f844",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8fbe37aa4fb079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d71b739a35451299",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Tipi di dato 1 esercizio.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tipi di dato 1 esercizio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b16d629154b5b8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffbb691257bb53a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91cacd6ed0c1d3bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3656febc265e13ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d91201822bb2b98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddfb8b9ac06c0b6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "664bec8055840ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ae6f3e1adb3ba3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tipi di dato 1 esercizio.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tipi di dato 1 esercizio"
+            }
+          },
+          {
+            "id": "b696ecbef99bc817",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tipi di dato 1 esercizio.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tipi di dato 1 esercizio"
+            }
+          },
+          {
+            "id": "6edeb0c907f9c37d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "163e16e4c02de6f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tipi di dato 1 esercizio.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tipi di dato 1 esercizio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d71b739a35451299",
+  "lastOpenFiles": []
+}
